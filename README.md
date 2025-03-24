@@ -1,6 +1,6 @@
 # 🎬 Maven Movies: Unlocking Insights for a Rental Business
 
-![Project Banner](https://github.com/Sayali821/Mavenmovies/blob/200eb076804152c5e1ba46638a60a3a5d01c34c1/banner.jpg)
+![Project Banner](Outputs/mysql_logo.png)
 
 ## 📌 Project Overview
 This project focuses on analyzing the *MAVENMOVIES* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
@@ -58,49 +58,49 @@ Retrieve customer first name, last name, and email ID.
 ![Customer Info](Outputs/EMAIL_ID_LIST.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
+![Cheapest Rental](Outputs/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
+![Total Movies per Rental Rate](Outputs/TOTAL_NUMBER_OF_MOVIES.png)
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/rating_wise_count.png)
+![Rating Count](Outputs/RATING_WISE_COUNT.png)
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/rating_to_store.png)
+![Rating per Store](Outputs/rating to store.png)
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TLC.png)
+![Film List](Outputs/CATEGORY_NAME.png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/popularity.png)
+![Rental Popularity](Outputs/POPULARITY.png)
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
+![Revenue per Film](Outputs/REVENUE_PER_MOVIE.png)
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
+![Most Spending Customer](Outputs/MOST_SPENDING_CUSTOMER.png)
 
 ### 10. Store with Most Revenue
 ![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
 
 ### 11. Monthly Rentals Count
-![Rentals Per Month](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/RENTALS_PER_MONTH.png)
+![Rentals Per Month](Outputs/RENTALS_PER_MONTH.png)
 
 ### 12. Customers Eligible for Rewards
-![Reward Eligible Customers](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REWARD_VIA_PHONE.png)
+![Reward Eligible Customers](Outputs/REWARD_VIA_PHONE.png)
 
 ### 13. Payments from First 100 Customers
-![First 100 Customer Payments](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIRST_100_CUSTOMER_PAYMENTS.png)
+![First 100 Customer Payments](Outputs/PAYMENT_DETAILS_FIRST_100.png)
 
 ### 14. Payments Over $5 Since Jan 1, 2006
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/JAN_06_2006.png)
+![Payments Over $5](Outputs/OLD_CUSTOMER_OVER_5$.png)
 
 ### 15. Payments Over $5 for Specific Customers
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/PAYMENTS_OVER_%245.png)
+![Payments Over $5](Outputs/OVER_5_DOLLAR.png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/BTS.png)
+![Behind the Scenes Films](Outputs/FILMS_WITH_SPECIAL_FEATURES.png)
 
 ### 17. Unique Movie Ratings and Count
 ![Unique Ratings](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNI_MOVIES_RATINGS_%26_NO_OF_MOVIES.png)
